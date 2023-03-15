@@ -4,6 +4,7 @@
   
 Цель проекта - веб интерфейс микроконтроллера [ESP32](https://esp32io.com/) позволяющий включать/выключать 2 светодиода.  
 
+За основу взят [источник](https://www.donskytech.com/how-to-create-a-micropython-web-server-the-easy-way/) и упрощен для легкого освоения
   
 Веб интерфейс микроконтроллера ESP32 создан на фреймворке [Microdot](https://github.com/miguelgrinberg/microdot?ysclid=lf9wwcnq5g980816931) ([micropython](https://gpiocc.github.io/learn/micropython/esp/2020/04/04/martin-ku-getting-started-with-micropython-for-esp32.html)).  
 Microdot - упрощенный аналог фреймворка [Flask](https://medium.com/netron/python-flask-quickstart-2cf258256619).  
