@@ -1,2 +1,5 @@
 # esp32_microdot
-simple project with microdot framework
+Веб интерфейс микроконтроллера ESP32, на фреймворке Microdot (micropython)
+Microdot - упрощенный аналог фреймворка Flask
+веи интерфейс позволяет включать и выключать два светодиода,
+подключенных  к ножам микроконтроллера
